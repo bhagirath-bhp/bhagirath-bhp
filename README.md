@@ -43,4 +43,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhagirath-bhp&layout=compact&hide_progress=true&theme=github_dark&langs_count=10)](https://github.com/bhagirath-bhp/github-readme-stats)
 
-[![GitHub Streak]([![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bhagirath-bhp)](https://git.io/streak-stats))
+![trophy](https://github-profile-trophy.vercel.app/?username=bhagirath-bhp&theme=onedark)

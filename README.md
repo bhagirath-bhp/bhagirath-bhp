@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 ##
   
-![Bhagirath's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhagirath-bhp&show_icons=true&theme=tokyonight)
+![Bhagirath's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhagirath-bhp&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhagirath-bhp&layout=compact&hide_progress=true&theme=github_dark&langs_count=10)](https://github.com/bhagirath-bhp/github-readme-stats)
 

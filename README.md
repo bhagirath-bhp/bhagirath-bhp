@@ -45,4 +45,4 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bhagirath-bhp&theme=transparent)](https://git.io/streak-stats)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=bhagirath-bhp&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia)

@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning basic machine learning and cyber sec
+- 🌱 I’m currently interested in IOT and cyber sec
 - 👯 I’m looking to collaborate on an e commerce project 
 - 💬 Ask me about : Space, Travel & Tech
 - 📫 Reach me at : bhagirath.bhp@gmail.com

@@ -1,21 +1,20 @@
 ### Hi there 👋
-### I am Bhagirath Patel
 ![Me](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnpldWE5MmE1aDdvdGxjMmM4c3liampkZXQ1eXpuZDc2ODlxM3VmcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif)
 
-<!--
-**bhagirath-bhp/bhagirath-bhp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## I’m Bhagirath! 🚀
 
-- 🔭 I’m currently working on 
-- 🤔 I’m looking for help with ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- 🌱 I’m currently interested in IOT and cyber sec
-- 👯 I’m looking to collaborate on an e commerce project 
-- 💬 Ask me about : Space, Travel & Tech
-- 📫 Reach me at : bhagirath.bhp@gmail.com
+**👨‍🎓 Studying ICT at PDEU | About to graduate in 2025 | Aspiring Tech Enthusiast**
+
+Driven by curiosity and a passion for innovation, I’m eager to dive into the world of technology. I’m particularly excited about **Climate Tech**, **IoT** and **Cybersecurity** and am actively seeking opportunities to contribute to cutting-edge projects.
+
+**🌟 What I Bring:**
+- **Fresh Perspective:** Ready to apply my academic knowledge to real-world challenges.
+- **Quick Learner:** Adaptable and enthusiastic about picking up new technologies and skills.
+- **Collaboration:** Looking to team up on impactful **Climate Tech** projects and beyond.
+
+**📈 Let’s Connect:** I’m open to discussions about tech trends, innovative solutions, and collaborative opportunities. Drop me a line at [bhagirath.bhp@gmail.com] and let’s explore how we can create something amazing together!
+
 
 ## 🌐 Socials
 
